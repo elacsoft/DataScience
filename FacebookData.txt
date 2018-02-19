@@ -1,0 +1,4 @@
+Let's start understanding Deep Learning by Separating input neurals by y=mx+b with Tensorflow an open source library for deep learning by Google IO.
+visit www.elacsoft.cf
+and also,
+playground.tensorflow.org
